@@ -1,4 +1,5 @@
 ![](./imgs/logo_ecyt.png)
+
 ![](./imgs/LOGO-FactorData-Color.jpg)
 
 
@@ -27,7 +28,8 @@ Se propone que les asistentes
 
 ## Contenidos y materiales
 
-### Clase 1. ¿Cómo hacer de un corpus de texto crudo algo analizable mediante métodos cuantitativos? Cualitativo y cuantitativo como niveles de estandarización de los datos. Preprocesamiento de texto: stopwords, lemmas y stemming. Concepto general del formato tidytext. 
+### Unidad 1. ¿Cómo hacer de un corpus de texto crudo algo analizable mediante métodos cuantitativos? 
+Cualitativo y cuantitativo como niveles de estandarización de los datos. Preprocesamiento de texto: stopwords, lemmas y stemming. Concepto general del formato tidytext.
 - [Diapositivas](./U1/U1_c1_Intro_NLP.pdf)
 - [Explicación y práctica - Notebook](https://colab.research.google.com/drive/1QVTW5AM0Zh6GNOjQuCGRJyMN2cbscgTO?usp=sharing)
 
