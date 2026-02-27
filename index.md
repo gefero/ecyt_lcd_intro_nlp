@@ -3,7 +3,7 @@
 ![](./imgs/LOGO-FactorData-Color.jpg)
 
 
-# Introducción al Procesamiento de Lenguaje Natural
+# Materiales
 
 ## Docente
 - [Germán Rosati](https://gefero.github.io/)
@@ -33,4 +33,4 @@ Cualitativo y cuantitativo como niveles de estandarización de los datos. Prepro
 - [Diapositivas](./U1/U1_c1_Intro_NLP.pdf)
 - [Explicación y práctica - Notebook](https://colab.research.google.com/drive/1QVTW5AM0Zh6GNOjQuCGRJyMN2cbscgTO?usp=sharing)
 
-[![Descargar corpus y datos](./imgs/Download.png)](./U1/data.zip)
+- Descargar corpus y datos [![](./imgs/Download.png)](./U1/data.zip)
