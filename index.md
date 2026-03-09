@@ -32,7 +32,7 @@ Se propone que les asistentes
 Bag of Words. Term-frequency matrix: conteos crudos y ponderación TF-IDF. Caso: Análisis de sentimientos sobre un corpus. Relaciones entre palabras, bigramas, n-gramas y correlaciones.
 - [Diapositivas](./U2/U2_c2_Intro_NLP.pdf)
 - [Explicación y práctica guiada 1 - Notebook](https://colab.research.google.com/drive/1QVTW5AM0Zh6GNOjQuCGRJyMN2cbscgTO?usp=drive_link)
-- [Explicación y práctica guiada 2 - Notebook](https://colab.research.google.com/drive/1WL2beI1FRIRrK-vW1AT3Jcg7BOu-wFrb?usp=drive_link)
+- [Explicación y práctica guiada 2 - Notebook](https://colab.research.google.com/drive/1caYQk1wUXOXyLArg4cqT_-VPS7rnSE_A?usp=sharing)
 - [Práctica independiente - Notebook](https://colab.research.google.com/drive/1DSaqtaHZV-7Z8u4fGOINg1Zt09VGQHRD?usp=drive_link)
 
 
