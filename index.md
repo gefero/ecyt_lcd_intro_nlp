@@ -28,9 +28,21 @@ Se propone que les asistentes
 
 ## Contenidos y materiales
 
+### Unidad 2. ¿Cómo vectorizar textos? Episodio 1. Contando palabras y extrayendo conclusiones de un corpus. 
+Bag of Words. Term-frequency matrix: conteos crudos y ponderación TF-IDF. Caso: Análisis de sentimientos sobre un corpus. Relaciones entre palabras, bigramas, n-gramas y correlaciones.
+- [Diapositivas](./U2/U2_c2_Intro_NLP.pdf)
+- [Explicación y práctica guiada 1 - Notebook](https://colab.research.google.com/drive/1QVTW5AM0Zh6GNOjQuCGRJyMN2cbscgTO?usp=drive_link)
+- [Explicación y práctica guiada 2 - Notebook](https://colab.research.google.com/drive/1WL2beI1FRIRrK-vW1AT3Jcg7BOu-wFrb?usp=drive_link)
+- [Práctica independiente - Notebook](https://colab.research.google.com/drive/1DSaqtaHZV-7Z8u4fGOINg1Zt09VGQHRD?usp=drive_link)
+
+
+- Descargar corpus y datos [![](./imgs/Download.png)](./U2/data.zip)
+
 ### Unidad 1. ¿Cómo hacer de un corpus de texto crudo algo analizable mediante métodos cuantitativos? 
 Cualitativo y cuantitativo como niveles de estandarización de los datos. Preprocesamiento de texto: stopwords, lemmas y stemming. Concepto general del formato tidytext.
 - [Diapositivas](./U1/U1_c1_Intro_NLP.pdf)
 - [Explicación y práctica - Notebook](https://colab.research.google.com/drive/1QVTW5AM0Zh6GNOjQuCGRJyMN2cbscgTO?usp=sharing)
 
 - Descargar corpus y datos [![](./imgs/Download.png)](./U1/data.zip)
+
+
