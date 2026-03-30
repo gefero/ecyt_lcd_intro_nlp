@@ -28,6 +28,13 @@ Se propone que les asistentes
 
 ## Contenidos y materiales
 
+### Unidad 3. ¿Cómo detectar temas en corpus? 
+Introducción al modelado de tópicos. Descubrimiento no supervisado de estructura temática en corpus de texto. Latent Dirichlet Allocation (LDA). Intuición general del modelo. Parámetros principales. ¿Cómo seleccionar el k (número de ´tópicos?
+- [Diapositivas](./U3/U3_Intro_NLP_Python.pdf)
+- [Explicación y práctica guiada 1 (sklearn) - Notebook](https://colab.research.google.com/drive/1yTTWMn3sZTaK1ihKGP1xldIvX2iazbee?usp=sharing)
+- [Explicación y práctica guiada 2 (gensim) + Práctica independiente - Notebook](https://colab.research.google.com/drive/1YMCWyrZP8Qh9ZnXAVeyO62E_uqg-R8vO?usp=sharing)
+
+
 ### Unidad 2. ¿Cómo vectorizar textos? Episodio 1. Contando palabras y extrayendo conclusiones de un corpus. 
 Bag of Words. Term-frequency matrix: conteos crudos y ponderación TF-IDF. Caso: Análisis de sentimientos sobre un corpus. Relaciones entre palabras, bigramas, n-gramas y correlaciones.
 - [Diapositivas](./U2/U2_c2_Intro_NLP.pdf)
