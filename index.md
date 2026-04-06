@@ -28,6 +28,13 @@ Se propone que les asistentes
 
 ## Contenidos y materiales
 
+### Unidad 4. ¿Cómo vectorizar texto? Episodio 2.
+Una introducción a los métodos de word-embeddings (word2vec). La fórmula mágica de word2vec: skip-gram + negative sampling. Uso de embeddings como features para modelos supervisados de clasificación de texto (regresión, árboles, etc.).
+- [Diapositivas](./U4/U4_c1_Intro_NLP_Python.pdf)
+- [Explicación y práctica guiada 1 - Notebook]()
+- [Explicación y práctica guiada 2 - Notebook]()
+
+
 ### Unidad 3. ¿Cómo detectar temas en corpus? 
 Introducción al modelado de tópicos. Descubrimiento no supervisado de estructura temática en corpus de texto. Latent Dirichlet Allocation (LDA). Intuición general del modelo. Parámetros principales. ¿Cómo seleccionar el k (número de ´tópicos?
 - [Diapositivas](./U3/U3_Intro_NLP_Python.pdf)
