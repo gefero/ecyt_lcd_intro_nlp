@@ -30,9 +30,11 @@ Se propone que les asistentes
 
 ### Unidad 4. ¿Cómo vectorizar texto? Episodio 2.
 Una introducción a los métodos de word-embeddings (word2vec). La fórmula mágica de word2vec: skip-gram + negative sampling. Uso de embeddings como features para modelos supervisados de clasificación de texto (regresión, árboles, etc.).
-- [Diapositivas](./U4/U4_c1_Intro_NLP_Python.pdf)
-- [Explicación y práctica guiada 1 - Notebook]()
-- [Explicación y práctica guiada 2 - Notebook]()
+- [Diapositivas - parte 1](./U4/U4_c1_Intro_NLP_Python.pdf)
+- [Diapositivas - parte 2](./U4/U4_c2_Intro_NLP_Python.pdf)
+- [Explicación y práctica guiada 1 - Notebook](https://colab.research.google.com/drive/159iTVf3FzBII1updM88f99W0yRle9cDM?usp=sharing)
+- [Práctica independiente 1 - Notebook](https://colab.research.google.com/drive/1P8x3FLGc48biXqqdPt-ubF4lzc7T2MlS?usp=sharing)
+- [Explicación y práctica guiada 2 - Notebook](https://colab.research.google.com/drive/1EpeSye8scjmQX1kSaFmLyL24LYLW778w?usp=sharing)
 
 
 ### Unidad 3. ¿Cómo detectar temas en corpus? 
