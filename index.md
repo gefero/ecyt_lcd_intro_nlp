@@ -28,6 +28,13 @@ Se propone que les asistentes
 
 ## Contenidos y materiales
 
+
+### Unidad 5. Modelos Grandes de Lenguaje (LLMs). 
+De modelos clásicos de NLP a los LLMs. Arquitectura Transformers: mecanismo de atención, encoding positionales, embeddings. Algunas generalidades sobre el entrenamiento de LLMs. Casos particulares: GPT, Gemini y Llama. Uso de LLMs vía API y uso de modelos locales. Aplicaciones para clasificación de texto y modelado de tópicos. Evaluación de fortalezas y debilidades.
+- [Diapositivas - parte 1](./U5/U5_c1_Intro_NLP_Python.pdf)
+- [Explicación y práctica guiada 1 - Notebook](https://colab.research.google.com/drive/12QH1ZwryZXdlHoxQEeoMjGz7Si6zqUyA?usp=sharing)
+
+
 ### Unidad 4. ¿Cómo vectorizar texto? Episodio 2.
 Una introducción a los métodos de word-embeddings (word2vec). La fórmula mágica de word2vec: skip-gram + negative sampling. Uso de embeddings como features para modelos supervisados de clasificación de texto (regresión, árboles, etc.).
 - [Diapositivas - parte 1](./U4/U4_c1_Intro_NLP_Python.pdf)
