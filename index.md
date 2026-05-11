@@ -37,7 +37,8 @@ De modelos clásicos de NLP a los LLMs. Arquitectura Transformers: mecanismo de 
 - [Diapositivas - parte 2](./U5/U5_c2_Intro_NLP_Python.pdf)
 - [Explicación y práctica guiada 2 APIs - Notebook](https://colab.research.google.com/drive/1qI8u_EnQqO-xjpGGbRJi-lj_fO8LkGhH?usp=sharing)
 - [Explicación y práctica guiada 3 LLMs locales - Notebook](https://colab.research.google.com/drive/140NFMeAX6z1aBThi64Gdjr4uCXWD02ag?usp=sharing)
-
+- [Explicación y práctica guiada 4 BERTopic - Notebook](https://drive.google.com/file/d/11AUAs5Blq0HGo74QcfeuJjOpZuqi6Lir/view?usp=sharing)
+- [Explicación y práctica guiada 5 Interpretabilidad en NLP - Notebook](https://colab.research.google.com/drive/1JOfFRVJzZA7QOay1sZu612GOE8ZTA_1H?usp=sharing)
 
 ### Unidad 4. ¿Cómo vectorizar texto? Episodio 2.
 Una introducción a los métodos de word-embeddings (word2vec). La fórmula mágica de word2vec: skip-gram + negative sampling. Uso de embeddings como features para modelos supervisados de clasificación de texto (regresión, árboles, etc.).
