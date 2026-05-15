@@ -26,8 +26,11 @@ Se propone que les asistentes
 ## Programa
 - [Programa completo de la materia - 1er. cuatrimestre 2026](https://docs.google.com/document/d/1nK7JDIDGqrSHCn1dFZdi1c0vgMl78AHg/edit?usp=sharing&ouid=118216469217227231637&rtpof=true&sd=true)
 
-## Contenidos y materiales
+## Trabajo Final Integrador (TFI)
+- **Fecha de entrega:** 15 de Junio de 2026
+- [Consignas](https://docs.google.com/document/d/1Zo_dA_dIXqHEjQy0LJ9Ff7gbpJD6uG2_tcv39Dr9FEc/edit?usp=sharing)
 
+## Contenidos y materiales
 
 ### Unidad 5. Modelos Grandes de Lenguaje (LLMs). 
 De modelos clásicos de NLP a los LLMs. Arquitectura Transformers: mecanismo de atención, encoding positionales, embeddings. Algunas generalidades sobre el entrenamiento de LLMs. Casos particulares: GPT, Gemini y Llama. Uso de LLMs vía API y uso de modelos locales. Aplicaciones para clasificación de texto y modelado de tópicos. Evaluación de fortalezas y debilidades.
