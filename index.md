@@ -26,9 +26,15 @@ Se propone que les asistentes
 ## Programa
 - [Programa completo de la materia - 1er. cuatrimestre 2026](https://docs.google.com/document/d/1nK7JDIDGqrSHCn1dFZdi1c0vgMl78AHg/edit?usp=sharing&ouid=118216469217227231637&rtpof=true&sd=true)
 
+
 ## Trabajo Final Integrador (TFI)
 - **Fecha de entrega:** 15 de Junio de 2026
 - [Consignas](https://docs.google.com/document/d/1Zo_dA_dIXqHEjQy0LJ9Ff7gbpJD6uG2_tcv39Dr9FEc/edit?usp=sharing)
+
+
+## Consignas del 1er parcial (para consulas)
+- [Consignas](./Parcial/2026_Parcial_Intro_NLP.pdf)
+
 
 ## Contenidos y materiales
 
